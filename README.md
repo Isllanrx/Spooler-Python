@@ -23,7 +23,7 @@ Este é um simples aplicativo em Python com uma interface gráfica que permite r
 2. Navegue até o diretório onde o repositório foi clonado.
 3. Execute o script Python `spooler.py` com o seguinte comando:
    ```
-   python spooler.py
+   python spooler1.py
    ```
 4. A interface gráfica será aberta. Clique no botão "Reiniciar Serviço de Impressão" para reiniciar o serviço de impressão.
 
