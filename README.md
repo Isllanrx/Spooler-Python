@@ -33,5 +33,6 @@ Este é um simples aplicativo em Python com uma interface gráfica que permite r
 2. Selecione o botão de "Reiniciar" e logo em seguida mostrará os avisos de cada processo
 3. Aperte 'OK' em todos os avisos para validar.
 
+## Final
 
-Este projeto foi desenvolvido por [Isllan Toso] como parte do projeto [Spooler de Impressão] da [Podium TI].
+1. Este projeto foi desenvolvido por [Isllan Toso] como parte do projeto [Spooler de Impressão] da [Podium TI].
