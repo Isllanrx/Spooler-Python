@@ -1,4 +1,4 @@
-# Gerenciador de Serviço de Impressão - Podium TI
+# Gerenciador de Serviço de Impressão 
 
 Com finalidade de resolver problemas relacionado a fila de impressão no windows, desenvolvi essa aplicação em python e converti para .EXE.
 Este é um simples aplicativo em Python com uma interface gráfica que permite reiniciar o serviço de impressão no sistema operacional Windows. O projeto utiliza a biblioteca `customtkinter` para criar a interface gráfica.
