@@ -17,14 +17,21 @@ Este é um simples aplicativo em Python com uma interface gráfica que permite r
   pip install customtkinter
   ```
 
-## Como usar
+## Como usar para testes
 
 1. Clone o repositório para o seu sistema local.
 2. Navegue até o diretório onde o repositório foi clonado.
-3. Execute o script Python `spooler.py` com o seguinte comando:
+3. Execute o script Python `spooler1.py` com o seguinte comando:
    ```
    python spooler1.py
    ```
 4. A interface gráfica será aberta. Clique no botão "Reiniciar Serviço de Impressão" para reiniciar o serviço de impressão.
+
+## Como usar o executável
+
+1. Abra o aplicativo como Administrador
+2. Selecione o botão de "Reiniciar" e logo em seguida mostrará os avisos de cada processo
+3. Aperte 'OK' em todos os avisos para validar.
+
 
 Este projeto foi desenvolvido por [Isllan Toso] como parte do projeto [Spooler de Impressão] da [Podium TI].
